@@ -1,0 +1,23 @@
+.heading{
+  padding: 10px;
+  text-align: center;
+}
+.main{
+  display: flex;
+  justify-content: center; 
+  align-items: center;   
+  font-size: 20px;
+  
+}
+.input{
+  width: 250px;
+}
+.button{
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: rgb(0, 128, 115);
+  color: black;
+  font-size: 20px;
+}
